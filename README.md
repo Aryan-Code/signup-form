@@ -2,7 +2,7 @@
 
 This is a signup and login form build using HTML, CSS, PHP, MySQL and API.
 
-To use the project first upload the file "database_file.sql" in database which in my case was localhost/phpmyadmin.
+To use the project first upload the file "database_file.sql" in database using the same name i.e. database_file which in my case was localhost/phpmyadmin.
 After that start the server which in my case was xampp and then start the project using the localhost server.
 
 
